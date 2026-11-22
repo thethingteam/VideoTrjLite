@@ -1,0 +1,29 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# PyInstaller output
+build/
+dist/
+
+# Local data: real videos, tracks and export results never go into the repo
+data/
+vtl_[0-9]*_[0-9]*/
+*.mp4
+*.mov
+*.mkv
+*.insv
+*.mts
+*.gpx
+*.nmea
+
+# Editors / OS
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+Desktop.ini

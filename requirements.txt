@@ -1,0 +1,7 @@
+av>=12,<20
+numpy>=1.24
+Pillow>=10,<14
+piexif>=1.1,<2
+tkinterdnd2>=0.4,<1
+# optional fallback decoder (only used when PyAV cannot open a file):
+# opencv-python>=4.9,<6
