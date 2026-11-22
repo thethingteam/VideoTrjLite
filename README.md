@@ -6,6 +6,12 @@
 
 👉 [線上操作介紹](https://thethingteam.github.io/VideoTrjLite/)
 
+## 影片
+
+- 介紹影片：<https://www.youtube.com/watch?v=lBSRuwoP33w>
+- 操作示範｜Mio 行車記錄器：<https://www.youtube.com/watch?v=MmHslD-LhmM>
+- 操作示範｜Insta360 × GPS Tracker：<https://www.youtube.com/watch?v=dZvhUTuwiJE>
+
 架構說明見 [ARCHITECTURE.md](ARCHITECTURE.md)。
 
 ## 支援平台
